@@ -22,4 +22,11 @@
 <?php
     include './html8.php';
 ?>
+<?php
+    include './html9.php';
+?>
+<?php
+    include './html10.php';
+?>
+
 
