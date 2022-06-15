@@ -1,32 +1,9 @@
 <?php
-    include './html.php';
+include "./head.php";
 ?>
 <?php
-    include './html2.php';
+include "./body.php";
 ?>
 <?php
-    include './html3.php';
+include "./foot.php";
 ?>
-<?php
-    include './html4.php';
-?>
-<?php
-    include './html5.php';
-?>
-<?php
-    include './html6.php';
-?>
-<?php
-    include './html7.php';
-?>
-<?php
-    include './html8.php';
-?>
-<?php
-    include './html9.php';
-?>
-<?php
-    include './html10.php';
-?>
-
-
